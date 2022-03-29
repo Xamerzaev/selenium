@@ -1,0 +1,1801 @@
+1647439409816	geckodriver	INFO	Listening on 127.0.0.1:60635
+1647439409820	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "47919" "-no-remote" "-profile" "/tmp/rust_mozprofilejEkiTc"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647439410469	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejEkiTc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47919/devtools/browser/c7ea4853-1027-488d-aaaf-721b1d59768d
+1647439411646	Marionette	INFO	Listening on port 41235
+1647439411735	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://accounts.google.com/signup/v2?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=SignUp line 1 > eval line 6383 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647439458696	Marionette	INFO	Stopped listening on port 41235
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647464891510	geckodriver	INFO	Listening on 127.0.0.1:57163
+1647464891514	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "48749" "-no-remote" "-profile" "/tmp/rust_mozprofileEIYBT1"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647464892182	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEIYBT1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48749/devtools/browser/4741710c-9957-41df-a584-a42d3d3f6235
+1647464893364	Marionette	INFO	Listening on port 46461
+1647464893441	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647464901246	Marionette	INFO	Stopped listening on port 46461
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647465534927	geckodriver	INFO	Listening on 127.0.0.1:37595
+1647465534931	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "53981" "-no-remote" "-profile" "/tmp/rust_mozprofileKLAWpE"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647465535585	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKLAWpE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53981/devtools/browser/93afa507-7dab-467f-98c9-412fd2d7e86a
+1647465536558	Marionette	INFO	Listening on port 38397
+1647465536655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647465555882	Marionette	INFO	Stopped listening on port 38397
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647465846160	geckodriver	INFO	Listening on 127.0.0.1:58559
+1647465846164	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "50871" "-no-remote" "-profile" "/tmp/rust_mozprofileGjCcyi"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647465846828	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGjCcyi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50871/devtools/browser/3b6a586a-2664-45f5-9997-ccb6214aacd3
+1647465847939	Marionette	INFO	Listening on port 36449
+1647465847984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647465869225	Marionette	INFO	Stopped listening on port 36449
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647466042019	geckodriver	INFO	Listening on 127.0.0.1:42645
+1647466042022	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "39683" "-no-remote" "-profile" "/tmp/rust_mozprofileLpMdhT"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647466042651	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLpMdhT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39683/devtools/browser/c405be28-a12a-4e41-9467-9b1038c10c66
+1647466043780	Marionette	INFO	Listening on port 38507
+1647466043845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647466064069	Marionette	INFO	Stopped listening on port 38507
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647466200050	geckodriver	INFO	Listening on 127.0.0.1:41615
+1647466200054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "34983" "-no-remote" "-profile" "/tmp/rust_mozprofileJQpSCf"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647466200690	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJQpSCf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34983/devtools/browser/90e4f253-33a3-4a97-8a7b-92f4cf2e0ace
+1647466201880	Marionette	INFO	Listening on port 35443
+1647466201977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647466221846	Marionette	INFO	Stopped listening on port 35443
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647466839187	geckodriver	INFO	Listening on 127.0.0.1:43131
+1647466839191	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "41719" "-no-remote" "-profile" "/tmp/rust_mozprofilepKtGc9"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647466839829	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepKtGc9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41719/devtools/browser/1039b291-bacc-42aa-8755-9ee953906a34
+1647466841007	Marionette	INFO	Listening on port 35817
+1647466841111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647466860860	Marionette	INFO	Stopped listening on port 35817
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647467142618	geckodriver	INFO	Listening on 127.0.0.1:48019
+1647467142621	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "55697" "-no-remote" "-profile" "/tmp/rust_mozprofilenHiIjN"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647467143250	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenHiIjN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55697/devtools/browser/1c03b8c0-e66e-4607-94d7-a8540b6cc03b
+1647467144467	Marionette	INFO	Listening on port 43875
+1647467144543	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647467164079	Marionette	INFO	Stopped listening on port 43875
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647467232506	geckodriver	INFO	Listening on 127.0.0.1:50859
+1647467232510	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "40901" "-no-remote" "-profile" "/tmp/rust_mozprofileANDnsX"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647467233137	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileANDnsX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40901/devtools/browser/56ca9397-c991-4065-a76a-b76bc2350547
+1647467234275	Marionette	INFO	Listening on port 40763
+1647467234336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647467254552	Marionette	INFO	Stopped listening on port 40763
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647467322312	geckodriver	INFO	Listening on 127.0.0.1:49905
+1647467322316	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "33181" "-no-remote" "-profile" "/tmp/rust_mozprofileLk1Rq9"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647467322946	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLk1Rq9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33181/devtools/browser/c8bcc756-b9ce-47b6-9f14-4ac2e07ceceb
+1647467324113	Marionette	INFO	Listening on port 35873
+1647467324139	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647467342574	Marionette	INFO	Stopped listening on port 35873
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647467407826	geckodriver	INFO	Listening on 127.0.0.1:34791
+1647467407830	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "57303" "-no-remote" "-profile" "/tmp/rust_mozprofileVsZxML"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647467408495	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVsZxML/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57303/devtools/browser/7cf13f86-41cb-4988-828d-bc47f7d35718
+1647467409659	Marionette	INFO	Listening on port 43097
+1647467409745	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647467428961	Marionette	INFO	Stopped listening on port 43097
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647513030725	geckodriver	INFO	Listening on 127.0.0.1:43451
+1647513031231	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "37727" "-no-remote" "-profile" "/tmp/rust_mozprofileCfxctb"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647513031885	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCfxctb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37727/devtools/browser/393b0448-1816-4cd2-a49a-6342618b27a1
+1647513033062	Marionette	INFO	Listening on port 43733
+1647513033158	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647513051168	Marionette	INFO	Stopped listening on port 43733
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647532169504	geckodriver	INFO	Listening on 127.0.0.1:49587
+1647532170011	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "60247" "-no-remote" "-profile" "/tmp/rust_mozprofile6G95zu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647532170657	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6G95zu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60247/devtools/browser/b0a819e7-b905-41db-b5fe-3cb9c85f7a2e
+1647532171812	Marionette	INFO	Listening on port 39383
+1647532171829	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1647532190902	Marionette	INFO	Stopped listening on port 39383
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647532363290	geckodriver	INFO	Listening on 127.0.0.1:42707
+1647532363294	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "44749" "-no-remote" "-profile" "/tmp/rust_mozprofileetydtM"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647532363942	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileetydtM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44749/devtools/browser/4fb3c8c9-9cef-48bc-b7da-0b4b0b012b6b
+1647532365054	Marionette	INFO	Listening on port 43091
+1647532365108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647532396137	Marionette	INFO	Stopped listening on port 43091
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647532490906	geckodriver	INFO	Listening on 127.0.0.1:59311
+1647532490909	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "38421" "-no-remote" "-profile" "/tmp/rust_mozprofilemBbgLm"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647532491546	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemBbgLm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38421/devtools/browser/84ed351e-ff2c-40d3-a686-108f7fbacb50
+1647532492671	Marionette	INFO	Listening on port 33021
+1647532492729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647532511932	Marionette	INFO	Stopped listening on port 33021
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647532591834	geckodriver	INFO	Listening on 127.0.0.1:36341
+1647532591838	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "58243" "-no-remote" "-profile" "/tmp/rust_mozprofilebLRIGp"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647532592493	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebLRIGp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58243/devtools/browser/6aae0566-08c4-4de1-9788-43d06d13954e
+1647532593464	Marionette	INFO	Listening on port 43131
+1647532593564	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647532612412	Marionette	INFO	Stopped listening on port 43131
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647532844861	geckodriver	INFO	Listening on 127.0.0.1:33007
+1647532844865	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "57287" "-no-remote" "-profile" "/tmp/rust_mozprofileWg27KN"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647532845508	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWg27KN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57287/devtools/browser/82d3eafa-c587-4e48-a6cf-d2712010030f
+1647532846679	Marionette	INFO	Listening on port 43549
+1647532846784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647532864093	Marionette	INFO	Stopped listening on port 43549
+1647532951821	geckodriver	INFO	Listening on 127.0.0.1:38901
+1647532951825	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "33495" "-no-remote" "-profile" "/tmp/rust_mozprofilel1HdDS"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647532952458	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilel1HdDS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33495/devtools/browser/958e73fa-8c6a-4dd1-92f2-2f7cc2b967bb
+1647532953538	Marionette	INFO	Listening on port 36563
+1647532953640	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647532973237	Marionette	INFO	Stopped listening on port 36563
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647533016956	geckodriver	INFO	Listening on 127.0.0.1:37581
+1647533016960	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "33849" "-no-remote" "-profile" "/tmp/rust_mozprofilex5HF1F"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647533017611	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilex5HF1F/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33849/devtools/browser/bab4a4af-a99b-4457-b5a2-78a3817b49c3
+1647533018813	Marionette	INFO	Listening on port 40423
+1647533018877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647533039923	Marionette	INFO	Stopped listening on port 40423
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647533087686	geckodriver	INFO	Listening on 127.0.0.1:54429
+1647533087690	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "58397" "-no-remote" "-profile" "/tmp/rust_mozprofileX1MUu1"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647533088373	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileX1MUu1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58397/devtools/browser/1eebd390-32d5-4797-b0ac-2822a888039f
+1647533089490	Marionette	INFO	Listening on port 36881
+1647533089511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647533111489	Marionette	INFO	Stopped listening on port 36881
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647533732815	geckodriver	INFO	Listening on 127.0.0.1:58687
+1647533732819	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "59091" "-no-remote" "-profile" "/tmp/rust_mozprofileOwBsGQ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647533733500	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOwBsGQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59091/devtools/browser/0f2fe22d-824a-4873-a271-8a03ca40fe04
+1647533734710	Marionette	INFO	Listening on port 40725
+1647533734733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://accounts.google.com/signup/v2?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=SignUp line 1 > eval line 1106 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647533742354	Marionette	INFO	Stopped listening on port 40725
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647533769345	geckodriver	INFO	Listening on 127.0.0.1:32945
+1647533769349	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "44673" "-no-remote" "-profile" "/tmp/rust_mozprofileZn7Gmm"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647533770025	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZn7Gmm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44673/devtools/browser/28c9d1d1-2ef1-4e55-8ace-96438044b2e8
+1647533771148	Marionette	INFO	Listening on port 42089
+1647533771164	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://accounts.google.com/signup/v2?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=SignUp line 1 > eval line 5448 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647533786948	Marionette	INFO	Stopped listening on port 42089
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647533806745	geckodriver	INFO	Listening on 127.0.0.1:49485
+1647533806751	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "50173" "-no-remote" "-profile" "/tmp/rust_mozprofileFn6qh5"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647533807426	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFn6qh5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50173/devtools/browser/0592f5cb-0cee-4854-9ea0-45983a37c389
+1647533808670	Marionette	INFO	Listening on port 34183
+1647533809671	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://accounts.google.com/signup/v2?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=SignUp line 1 > eval line 1544 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647533826130	Marionette	INFO	Stopped listening on port 34183
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647533895185	geckodriver	INFO	Listening on 127.0.0.1:50657
+1647533895189	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "49709" "-no-remote" "-profile" "/tmp/rust_mozprofileeN0X7q"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647533895844	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeN0X7q/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49709/devtools/browser/7893399c-670e-47ea-8e5a-5ee2bbdfae4d
+1647533896903	Marionette	INFO	Listening on port 35715
+1647533897004	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://accounts.google.com/signup/v2?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=SignUp line 1 > eval line 7251 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647533903766	Marionette	INFO	Stopped listening on port 35715
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647533954224	geckodriver	INFO	Listening on 127.0.0.1:34911
+1647533954228	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "38997" "-no-remote" "-profile" "/tmp/rust_mozprofile0Ndejq"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647533954895	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0Ndejq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38997/devtools/browser/59c11fc8-9dc7-480d-8bab-86f00fbc64a3
+1647533956034	Marionette	INFO	Listening on port 43413
+1647533956142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://accounts.google.com/signup/v2?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=SignUp line 1 > eval line 2609 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647533964170	Marionette	INFO	Stopped listening on port 43413
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647533978271	geckodriver	INFO	Listening on 127.0.0.1:58313
+1647533978275	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "58401" "-no-remote" "-profile" "/tmp/rust_mozprofileq7IjiI"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647533978961	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileq7IjiI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58401/devtools/browser/c1b2bcae-46be-47f8-8821-fd7c1f4d1165
+1647533980138	Marionette	INFO	Listening on port 39195
+1647533980191	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://accounts.google.com/signup/v2?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=SignUp line 1 > eval line 5187 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647533989212	Marionette	INFO	Stopped listening on port 39195
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647534047802	geckodriver	INFO	Listening on 127.0.0.1:47203
+1647534047806	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "59083" "-no-remote" "-profile" "/tmp/rust_mozprofilexWKPT0"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647534048520	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexWKPT0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59083/devtools/browser/54c2132a-4346-4af8-8134-dbecabe222b5
+1647534049633	Marionette	INFO	Listening on port 46737
+1647534049721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://accounts.google.com/signup/v2?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=SignUp line 1 > eval line 255 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1647534059902	Marionette	INFO	Stopped listening on port 46737
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647534067846	geckodriver	INFO	Listening on 127.0.0.1:54079
+1647534067850	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "47645" "-no-remote" "-profile" "/tmp/rust_mozprofileTjLJs0"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647534068524	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTjLJs0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47645/devtools/browser/4e0d7911-4bbd-4670-bbdd-5677d7851277
+1647534069650	Marionette	INFO	Listening on port 45637
+1647534069667	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1647534070155	Marionette	INFO	Stopped listening on port 45637
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1647534072163	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1647534077836	geckodriver	INFO	Listening on 127.0.0.1:50357
+1647534077840	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "37967" "-no-remote" "-profile" "/tmp/rust_mozprofilePZtrtl"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647534078525	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePZtrtl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37967/devtools/browser/51101b7d-4860-4498-b968-12960783bb03
+1647534079646	Marionette	INFO	Listening on port 46193
+1647534079756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://accounts.google.com/signup/v2?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=SignUp line 1 > eval line 6130 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647534092085	Marionette	INFO	Stopped listening on port 46193
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647543239377	geckodriver	INFO	Listening on 127.0.0.1:49949
+1647543239380	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "40565" "-no-remote" "-profile" "/tmp/rust_mozprofileBuQqpd"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647543240035	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBuQqpd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40565/devtools/browser/8396141f-be62-4345-8166-41b0dfb6e147
+1647543241226	Marionette	INFO	Listening on port 42879
+1647543241295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://accounts.google.com/signup/v2?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=SignUp line 1 > eval line 7625 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647543273884	Marionette	INFO	Stopped listening on port 42879
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647594128367	geckodriver	INFO	Listening on 127.0.0.1:58303
+1647594128873	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "38425" "-no-remote" "-profile" "/tmp/rust_mozprofileGj6K7m"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647594129562	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGj6K7m/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38425/devtools/browser/6634fcd2-d3a1-4bec-a4e0-2cb7ab38b3da
+1647594130828	Marionette	INFO	Listening on port 35977
+1647594130898	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647594147297	Marionette	INFO	Stopped listening on port 35977
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647594201658	geckodriver	INFO	Listening on 127.0.0.1:41489
+1647594201661	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "50607" "-no-remote" "-profile" "/tmp/rust_mozprofileVhnxYf"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647594202334	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVhnxYf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50607/devtools/browser/72f1847e-0a4c-4b59-aedd-b88322db1148
+1647594203468	Marionette	INFO	Listening on port 36085
+1647594203576	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647594216184	Marionette	INFO	Stopped listening on port 36085
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647594260901	geckodriver	INFO	Listening on 127.0.0.1:60413
+1647594260904	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "39299" "-no-remote" "-profile" "/tmp/rust_mozprofile4uvnzQ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647594261556	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4uvnzQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39299/devtools/browser/5e204d7c-f0b0-482b-9471-561566391afc
+1647594262722	Marionette	INFO	Listening on port 42317
+1647594262834	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647594273397	Marionette	INFO	Stopped listening on port 42317
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647594395154	geckodriver	INFO	Listening on 127.0.0.1:50665
+1647594395158	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "38405" "-no-remote" "-profile" "/tmp/rust_mozprofileyZAfXP"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647594395827	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyZAfXP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38405/devtools/browser/545d9a09-15cf-4812-a681-7fa38d79ff75
+1647594396964	Marionette	INFO	Listening on port 42187
+1647594397083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-plus.roxot-panel.com/wrapper/js/prebid.js?v=s-d7885d7a-91c1-4ba1-a32a-40cb78d5d8cb, line 3: NS_ERROR_NOT_INITIALIZED: 
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647594421652	Marionette	INFO	Stopped listening on port 42187
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647594529635	geckodriver	INFO	Listening on 127.0.0.1:47985
+1647594529639	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "34751" "-no-remote" "-profile" "/tmp/rust_mozprofileBwNjsF"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647594530309	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBwNjsF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34751/devtools/browser/48512896-0483-4b29-a05f-85cdf8201382
+1647594531415	Marionette	INFO	Listening on port 37133
+1647594531453	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-plus.roxot-panel.com/wrapper/js/prebid.js?v=s-d7885d7a-91c1-4ba1-a32a-40cb78d5d8cb, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://habr.com"
+JavaScript error: https://cdn-plus.roxot-panel.com/wrapper/js/prebid.js?v=s-d7885d7a-91c1-4ba1-a32a-40cb78d5d8cb, line 3: NS_ERROR_NOT_INITIALIZED: 
+1647594547342	Marionette	INFO	Stopped listening on port 37133
+1647594671304	geckodriver	INFO	Listening on 127.0.0.1:46131
+1647594671308	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "40383" "-no-remote" "-profile" "/tmp/rust_mozprofile0th2F0"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647594671980	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0th2F0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40383/devtools/browser/227fafa7-4b1e-49a9-87c7-b2a5d77ed440
+1647594673113	Marionette	INFO	Listening on port 39487
+1647594673232	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-plus.roxot-panel.com/wrapper/js/prebid.js?v=s-d7885d7a-91c1-4ba1-a32a-40cb78d5d8cb, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://habr.com"
+1647594689428	Marionette	INFO	Stopped listening on port 39487
+1647594807097	geckodriver	INFO	Listening on 127.0.0.1:55175
+1647594807101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "49299" "-no-remote" "-profile" "/tmp/rust_mozprofileYzpMcS"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647594807758	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYzpMcS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49299/devtools/browser/565beec4-fda6-4d2e-9494-8b97dcad0100
+1647594808881	Marionette	INFO	Listening on port 41461
+1647594808916	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://habr.com"
+JavaScript error: https://cdn-plus.roxot-panel.com/wrapper/js/prebid.js?v=s-d7885d7a-91c1-4ba1-a32a-40cb78d5d8cb, line 3: NS_ERROR_NOT_INITIALIZED: 
+1647594825821	Marionette	INFO	Stopped listening on port 41461
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647594983533	geckodriver	INFO	Listening on 127.0.0.1:58181
+1647594983536	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "60687" "-no-remote" "-profile" "/tmp/rust_mozprofileF081hP"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647594984209	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileF081hP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60687/devtools/browser/bb8f8799-eb2a-4c22-9ee8-deb0e178513c
+1647594985346	Marionette	INFO	Listening on port 34827
+1647594985450	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://habr.com"
+1647595001496	Marionette	INFO	Stopped listening on port 34827
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647595202241	geckodriver	INFO	Listening on 127.0.0.1:50681
+1647595202245	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "42741" "-no-remote" "-profile" "/tmp/rust_mozprofileeHiPn4"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647595202925	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeHiPn4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42741/devtools/browser/61bdede6-171d-4a85-b95c-8aaeaababd77
+1647595204152	Marionette	INFO	Listening on port 40217
+1647595204265	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://habr.com"
+1647595228030	Marionette	INFO	Stopped listening on port 40217
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647595250145	geckodriver	INFO	Listening on 127.0.0.1:46089
+1647595250149	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "46817" "-no-remote" "-profile" "/tmp/rust_mozprofile9WRB9T"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647595250854	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9WRB9T/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46817/devtools/browser/bce280b7-f212-463c-9f32-2bdd1fd24c73
+1647595251964	Marionette	INFO	Listening on port 38309
+1647595252063	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://habr.com"
+1647595268263	Marionette	INFO	Stopped listening on port 38309
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647595671184	geckodriver	INFO	Listening on 127.0.0.1:43943
+1647595671188	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "32875" "-no-remote" "-profile" "/tmp/rust_mozprofileDmzHr4"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647595671859	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDmzHr4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:32875/devtools/browser/c5b02165-4411-4c8c-be57-61e520183255
+1647595673059	Marionette	INFO	Listening on port 40521
+1647595673120	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://habr.com"
+1647595705805	Marionette	INFO	Stopped listening on port 40521
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileDmzHr4/protections.sqlite
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647595811473	geckodriver	INFO	Listening on 127.0.0.1:60285
+1647595811477	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "39995" "-no-remote" "-profile" "/tmp/rust_mozprofileNoOYE9"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647595812158	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNoOYE9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39995/devtools/browser/dd4a3f8e-4ae5-4e35-ac68-2b5dd2586b7e
+1647595813539	Marionette	INFO	Listening on port 36663
+1647595813594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://habr.com"
+1647595897814	Marionette	INFO	Stopped listening on port 36663
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileNoOYE9/protections.sqlite
+1647596058897	geckodriver	INFO	Listening on 127.0.0.1:44883
+1647596058901	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "43665" "-no-remote" "-profile" "/tmp/rust_mozprofileWg13qq"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647596059599	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWg13qq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43665/devtools/browser/bc65d8fe-bf51-4b9e-862b-ba756e957687
+1647596060961	Marionette	INFO	Listening on port 34971
+1647596061023	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://habr.com"
+1647596084169	Marionette	INFO	Stopped listening on port 34971
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileWg13qq/protections.sqlite
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647720057224	geckodriver	INFO	Listening on 127.0.0.1:44335
+1647720057730	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "40089" "-no-remote" "-profile" "/tmp/rust_mozprofilerZAEa7"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647720058384	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerZAEa7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40089/devtools/browser/dc72b88b-502f-48e4-8603-3d799db05b35
+1647720059513	Marionette	INFO	Listening on port 46713
+1647720059547	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-plus.roxot-panel.com/wrapper/js/prebid.js?v=s-c338c4df-e0d4-434f-82f7-1e7c0b58b9f9, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://habr.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647720078752	Marionette	INFO	Stopped listening on port 46713
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilerZAEa7/protections.sqlite
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647720266945	geckodriver	INFO	Listening on 127.0.0.1:58053
+1647720266949	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "38459" "-no-remote" "-profile" "/tmp/rust_mozprofiledRi6Th"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647720267618	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledRi6Th/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38459/devtools/browser/d7e6dd6e-10b8-4709-92ff-af41ec905d6a
+1647720268803	Marionette	INFO	Listening on port 38599
+1647720268876	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647720272228	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647720281695	Marionette	INFO	Stopped listening on port 38599
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647720333477	geckodriver	INFO	Listening on 127.0.0.1:47801
+1647720333482	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "56917" "-no-remote" "-profile" "/tmp/rust_mozprofileyzkfch"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647720334166	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyzkfch/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56917/devtools/browser/d68e385f-510f-467f-8d34-6447d1c70b87
+1647720335245	Marionette	INFO	Listening on port 44715
+1647720335305	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647720338367	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647720345062	Marionette	INFO	Stopped listening on port 44715
+1647720376586	geckodriver	INFO	Listening on 127.0.0.1:53247
+1647720376589	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "59437" "-no-remote" "-profile" "/tmp/rust_mozprofileINru5y"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647720377288	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileINru5y/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59437/devtools/browser/b11c9b2a-edea-4327-bf70-195340704ed6
+1647720378540	Marionette	INFO	Listening on port 41663
+1647720378607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647720381436	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647720394603	Marionette	INFO	Stopped listening on port 41663
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647720546027	geckodriver	INFO	Listening on 127.0.0.1:47217
+1647720546032	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "42897" "-no-remote" "-profile" "/tmp/rust_mozprofile6ATWgh"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647720546789	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6ATWgh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42897/devtools/browser/46c9019b-29e0-46d5-8b3a-0dec1afca420
+1647720548004	Marionette	INFO	Listening on port 35813
+1647720548065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647720550531	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1647720558148	Marionette	INFO	Stopped listening on port 35813
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647720773628	geckodriver	INFO	Listening on 127.0.0.1:57039
+1647720773632	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "43435" "-no-remote" "-profile" "/tmp/rust_mozprofilefIfYzi"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647720774291	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefIfYzi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43435/devtools/browser/2fb0fe75-56a4-4cc5-aaa2-8cb595625cc3
+1647720775424	Marionette	INFO	Listening on port 37321
+1647720775447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647720777989	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1647720786082	Marionette	INFO	Stopped listening on port 37321
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647721252396	geckodriver	INFO	Listening on 127.0.0.1:33771
+1647721252401	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "58211" "-no-remote" "-profile" "/tmp/rust_mozprofilepP2G4D"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647721253048	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepP2G4D/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58211/devtools/browser/8787f7a0-806d-43fa-a9e5-0d4e86d16cc9
+1647721254364	Marionette	INFO	Listening on port 39835
+1647721254425	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647721258276	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1647721264811	Marionette	INFO	Stopped listening on port 39835
+1647721377157	geckodriver	INFO	Listening on 127.0.0.1:49183
+1647721377162	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "60213" "-no-remote" "-profile" "/tmp/rust_mozprofiles5dGGq"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647721377875	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiles5dGGq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60213/devtools/browser/f28950e5-c375-4935-8389-dd7fe743b2e6
+1647721379008	Marionette	INFO	Listening on port 38229
+1647721379087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647721381611	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647721391033	Marionette	INFO	Stopped listening on port 38229
+1647723848788	geckodriver	INFO	Listening on 127.0.0.1:49807
+1647723848792	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "57327" "-no-remote" "-profile" "/tmp/rust_mozprofiledogY3I"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647723849494	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledogY3I/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57327/devtools/browser/fbd7c6fd-c554-4682-8bf0-62c0c135c6a5
+1647723850715	Marionette	INFO	Listening on port 39069
+1647723850808	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647723853044	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=1050664596552-g7cju2rm24ciu5mioceilq3ncmrkcaqn.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fhhid.ru%2Foauth2%2Fcode&scope=profile%20email&state=token%3DUW9Rqq8c27f4HP8r4ohifCE6MFbT1ko8zrtfVTuEyZnvDZtfPHDOE7RSAPH7DJoOtwU3QoqaW6sRcUOvwQPiAX4YVh5u%26reg%3Dhttps%253A%252F%252Fgroznyj.hh.ru%252Faccount%252Fconnect%252Fregister%26fail%3Dhttps%253A%252F%252Fgroznyj.hh.ru%252Faccount%252Fconnect%252Fresult%253Ffail%253Dtrue%26login%3Dhttps%253A%252F%252Fgroznyj.hh.ru%252Faccount%252Fconnect%252Fresult%26system%3DGPLUS%26mergeOAuth%3Dfalse%26domain%3Dhh.ru%26platform%3DHH line 1 > eval line 3110 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647723868466	Marionette	INFO	Stopped listening on port 39069
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647773084593	geckodriver	INFO	Listening on 127.0.0.1:37801
+1647773084598	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "57439" "-no-remote" "-profile" "/tmp/rust_mozprofilebOiGsC"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647773085304	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebOiGsC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57439/devtools/browser/62e1eef9-d8a3-4558-b54e-dc86ce03300c
+1647773086447	Marionette	INFO	Listening on port 39689
+1647773086522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647773089156	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=1050664596552-g7cju2rm24ciu5mioceilq3ncmrkcaqn.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fhhid.ru%2Foauth2%2Fcode&scope=profile%20email&state=token%3DUW9Rqq8c27f4HP8r4ohifCE6MFbT1ko8zrtfVTuEyZlVhhkMsx%21IzOkQbyR6Q_NK4ycju1NvkqPq0rWu2vrEaitNuA53%26reg%3Dhttps%253A%252F%252Fgroznyj.hh.ru%252Faccount%252Fconnect%252Fregister%26fail%3Dhttps%253A%252F%252Fgroznyj.hh.ru%252Faccount%252Fconnect%252Fresult%253Ffail%253Dtrue%26login%3Dhttps%253A%252F%252Fgroznyj.hh.ru%252Faccount%252Fconnect%252Fresult%26system%3DGPLUS%26mergeOAuth%3Dfalse%26domain%3Dhh.ru%26platform%3DHH line 1 > eval line 2860 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+1647773149598	Marionette	INFO	Stopped listening on port 39689
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647773287555	geckodriver	INFO	Listening on 127.0.0.1:51403
+1647773287559	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "34183" "-no-remote" "-profile" "/tmp/rust_mozprofileZkgiFN"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647773288210	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZkgiFN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34183/devtools/browser/81e19969-6e43-401d-b4c8-7b12f4cad4b2
+1647773289274	Marionette	INFO	Listening on port 40385
+1647773289375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647773292786	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=1050664596552-g7cju2rm24ciu5mioceilq3ncmrkcaqn.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fhhid.ru%2Foauth2%2Fcode&scope=profile%20email&state=token%3DUW9Rqq8c27f4HP8r4ohifCE6MFbT1ko8zrtfVTuEyZlTRaq1WfyW7nAm9iNzafkt6gLM05WlppQo5wdaNtpiURkjluCN%26reg%3Dhttps%253A%252F%252Fgroznyj.hh.ru%252Faccount%252Fconnect%252Fregister%26fail%3Dhttps%253A%252F%252Fgroznyj.hh.ru%252Faccount%252Fconnect%252Fresult%253Ffail%253Dtrue%26login%3Dhttps%253A%252F%252Fgroznyj.hh.ru%252Faccount%252Fconnect%252Fresult%26system%3DGPLUS%26mergeOAuth%3Dfalse%26domain%3Dhh.ru%26platform%3DHH line 1 > eval line 1340 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1647773327138	Marionette	INFO	Stopped listening on port 40385
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal6442450985/domnode123, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:101:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:93:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:99:31
+
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647773414159	geckodriver	INFO	Listening on 127.0.0.1:59845
+1647773414163	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "56975" "-no-remote" "-profile" "/tmp/rust_mozprofileTEQrLZ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647773414867	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTEQrLZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56975/devtools/browser/c6b97c86-4d33-43e6-b902-5941ac3d38f5
+1647773416083	Marionette	INFO	Listening on port 41929
+1647773416184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1647773418830	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=1050664596552-g7cju2rm24ciu5mioceilq3ncmrkcaqn.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fhhid.ru%2Foauth2%2Fcode&scope=profile%20email&state=token%3DUW9Rqq8c27f4HP8r4ohifCE6MFbT1ko8zrtfVTuEyZk50XKEZHI0D6Z0Em7EBQJ4Bq2jv87SiXDnJQMhxYAdOQYb9ZyR%26reg%3Dhttps%253A%252F%252Fgroznyj.hh.ru%252Faccount%252Fconnect%252Fregister%26fail%3Dhttps%253A%252F%252Fgroznyj.hh.ru%252Faccount%252Fconnect%252Fresult%253Ffail%253Dtrue%26login%3Dhttps%253A%252F%252Fgroznyj.hh.ru%252Faccount%252Fconnect%252Fresult%26system%3DGPLUS%26mergeOAuth%3Dfalse%26domain%3Dhh.ru%26platform%3DHH line 1 > eval line 787 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647773493649	Marionette	INFO	Stopped listening on port 41929
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647773503296	geckodriver	INFO	Listening on 127.0.0.1:46137
+1647773503300	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "43239" "-no-remote" "-profile" "/tmp/rust_mozprofilel42cst"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647773504012	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilel42cst/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43239/devtools/browser/74db9e72-4116-4f57-9365-d6f3f9d14b96
+1647773505129	Marionette	INFO	Listening on port 35133
+1647773505216	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647773507578	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=1050664596552-g7cju2rm24ciu5mioceilq3ncmrkcaqn.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fhhid.ru%2Foauth2%2Fcode&scope=profile%20email&state=token%3DUW9Rqq8c27f4HP8r4ohifCE6MFbT1ko8zrtfVTuEyZlAQGWe1B5KW3yTBgkBFnZ6XBHBRGUYNnZ53zezyNQ_1VDOWN1c%26reg%3Dhttps%253A%252F%252Fgroznyj.hh.ru%252Faccount%252Fconnect%252Fregister%26fail%3Dhttps%253A%252F%252Fgroznyj.hh.ru%252Faccount%252Fconnect%252Fresult%253Ffail%253Dtrue%26login%3Dhttps%253A%252F%252Fgroznyj.hh.ru%252Faccount%252Fconnect%252Fresult%26system%3DGPLUS%26mergeOAuth%3Dfalse%26domain%3Dhh.ru%26platform%3DHH line 1 > eval line 2426 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1647773568158	Marionette	INFO	Stopped listening on port 35133
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647773574122	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1647798175736	geckodriver	INFO	Listening on 127.0.0.1:54471
+1647798175742	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "58241" "-no-remote" "-profile" "/tmp/rust_mozprofileAMdlBZ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647798176524	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAMdlBZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58241/devtools/browser/8e969d05-3f3b-42f3-9d9a-4a1f2b12adaa
+1647798177793	Marionette	INFO	Listening on port 41013
+1647798177859	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647798180338	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=1050664596552-g7cju2rm24ciu5mioceilq3ncmrkcaqn.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fhhid.ru%2Foauth2%2Fcode&scope=profile%20email&state=token%3DUW9Rqq8c27f4HP8r4ohifCE6MFbT1ko8zrtfVTuEyZngmQ%21HZfp%21Pz%21hzqgD6ZOL77ZPurKPgUvCGKfgYPzVF0KNBOAq%26reg%3Dhttps%253A%252F%252Fgroznyj.hh.ru%252Faccount%252Fconnect%252Fregister%26fail%3Dhttps%253A%252F%252Fgroznyj.hh.ru%252Faccount%252Fconnect%252Fresult%253Ffail%253Dtrue%26login%3Dhttps%253A%252F%252Fgroznyj.hh.ru%252Faccount%252Fconnect%252Fresult%26system%3DGPLUS%26mergeOAuth%3Dfalse%26domain%3Dhh.ru%26platform%3DHH line 1 > eval line 6503 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1647798221346	Marionette	INFO	Stopped listening on port 41013
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647798322776	geckodriver	INFO	Listening on 127.0.0.1:59849
+1647798322779	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "50745" "-no-remote" "-profile" "/tmp/rust_mozprofilef4NBp4"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647798323427	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilef4NBp4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50745/devtools/browser/0855c515-e61a-4138-8c1d-9f128ae6ee26
+1647798324491	Marionette	INFO	Listening on port 46251
+1647798324604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647798327085	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1647798327357	Marionette	INFO	Stopped listening on port 46251
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647798344018	geckodriver	INFO	Listening on 127.0.0.1:57781
+1647798344021	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "39299" "-no-remote" "-profile" "/tmp/rust_mozprofileaEQYC0"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647798344659	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaEQYC0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39299/devtools/browser/6bb894fc-8e09-4e0d-8f77-34336144e26e
+1647798345835	Marionette	INFO	Listening on port 36497
+1647798345945	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647798350552	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=1050664596552-g7cju2rm24ciu5mioceilq3ncmrkcaqn.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fhhid.ru%2Foauth2%2Fcode&scope=profile%20email&state=token%3DUW9Rqq8c27f4HP8r4ohifCE6MFbT1ko8zrtfVTuEyZklNXfYorJi7At9QjdfoBqtVIKQhkaXYY18Hdh_BwTd5Io669Vk%26reg%3Dhttps%253A%252F%252Fgroznyj.hh.ru%252Faccount%252Fconnect%252Fregister%26fail%3Dhttps%253A%252F%252Fgroznyj.hh.ru%252Faccount%252Fconnect%252Fresult%253Ffail%253Dtrue%26login%3Dhttps%253A%252F%252Fgroznyj.hh.ru%252Faccount%252Fconnect%252Fresult%26system%3DGPLUS%26mergeOAuth%3Dfalse%26domain%3Dhh.ru%26platform%3DHH line 1 > eval line 3794 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=1050664596552-g7cju2rm24ciu5mioceilq3ncmrkcaqn.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fhhid.ru%2Foauth2%2Fcode&scope=profile%20email&state=token%3DUW9Rqq8c27f4HP8r4ohifCE6MFbT1ko8zrtfVTuEyZklNXfYorJi7At9QjdfoBqtVIKQhkaXYY18Hdh_BwTd5Io669Vk%26reg%3Dhttps%253A%252F%252Fgroznyj.hh.ru%252Faccount%252Fconnect%252Fregister%26fail%3Dhttps%253A%252F%252Fgroznyj.hh.ru%252Faccount%252Fconnect%252Fresult%253Ffail%253Dtrue%26login%3Dhttps%253A%252F%252Fgroznyj.hh.ru%252Faccount%252Fconnect%252Fresult%26system%3DGPLUS%26mergeOAuth%3Dfalse%26domain%3Dhh.ru%26platform%3DHH line 1 > eval line 2258 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647798370073	Marionette	INFO	Stopped listening on port 36497
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647798374578	geckodriver	INFO	Listening on 127.0.0.1:57991
+1647798374582	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "52411" "-no-remote" "-profile" "/tmp/rust_mozprofileBfgaHK"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647798375215	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBfgaHK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52411/devtools/browser/fa0c029f-b68b-4c57-878b-69bb5638a430
+1647798376468	Marionette	INFO	Listening on port 35651
+1647798376507	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://i.hh.ru/webpackBuild/hhgfhp.52066fe4c490a0781273.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647798378922	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=1050664596552-g7cju2rm24ciu5mioceilq3ncmrkcaqn.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fhhid.ru%2Foauth2%2Fcode&scope=profile%20email&state=token%3DUW9Rqq8c27f4HP8r4ohifCE6MFbT1ko8zrtfVTuEyZmHq1OShsYpb1NtprtahPUT4upqC%21C3QyHVC05SsuyJPX26j2yf%26reg%3Dhttps%253A%252F%252Fgroznyj.hh.ru%252Faccount%252Fconnect%252Fregister%26fail%3Dhttps%253A%252F%252Fgroznyj.hh.ru%252Faccount%252Fconnect%252Fresult%253Ffail%253Dtrue%26login%3Dhttps%253A%252F%252Fgroznyj.hh.ru%252Faccount%252Fconnect%252Fresult%26system%3DGPLUS%26mergeOAuth%3Dfalse%26domain%3Dhh.ru%26platform%3DHH line 1 > eval line 3602 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=1050664596552-g7cju2rm24ciu5mioceilq3ncmrkcaqn.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fhhid.ru%2Foauth2%2Fcode&scope=profile%20email&state=token%3DUW9Rqq8c27f4HP8r4ohifCE6MFbT1ko8zrtfVTuEyZmHq1OShsYpb1NtprtahPUT4upqC%21C3QyHVC05SsuyJPX26j2yf%26reg%3Dhttps%253A%252F%252Fgroznyj.hh.ru%252Faccount%252Fconnect%252Fregister%26fail%3Dhttps%253A%252F%252Fgroznyj.hh.ru%252Faccount%252Fconnect%252Fresult%253Ffail%253Dtrue%26login%3Dhttps%253A%252F%252Fgroznyj.hh.ru%252Faccount%252Fconnect%252Fresult%26system%3DGPLUS%26mergeOAuth%3Dfalse%26domain%3Dhh.ru%26platform%3DHH line 1 > eval line 7004 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647798402920	Marionette	INFO	Stopped listening on port 35651
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647873770032	geckodriver	INFO	Listening on 127.0.0.1:55127
+1647873770036	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "36285" "-no-remote" "-profile" "/tmp/rust_mozprofileP9j7nv"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647873770693	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileP9j7nv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36285/devtools/browser/00d97511-8e23-478a-ad86-f2be7e232d12
+1647873771916	Marionette	INFO	Listening on port 43051
+1647873771956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647873794846	Marionette	INFO	Stopped listening on port 43051
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647873874374	geckodriver	INFO	Listening on 127.0.0.1:33967
+1647873874379	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "35787" "-no-remote" "-profile" "/tmp/rust_mozprofileUVbNfr"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647873875152	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUVbNfr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35787/devtools/browser/c1d492be-fbaf-40f8-ac92-bdd140098238
+1647873876525	Marionette	INFO	Listening on port 42741
+1647873876597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mail.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647873899523	Marionette	INFO	Stopped listening on port 42741
+1647874866665	geckodriver	INFO	Listening on 127.0.0.1:45541
+1647874866669	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "38497" "-no-remote" "-profile" "/tmp/rust_mozprofilexJ03Jo"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647874867381	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexJ03Jo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38497/devtools/browser/f550b28f-3b91-4edf-b87a-ff2b761c9d76
+1647874868615	Marionette	INFO	Listening on port 42385
+1647874868686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mail.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647874891572	Marionette	INFO	Stopped listening on port 42385
+1647874905237	geckodriver	INFO	Listening on 127.0.0.1:45283
+1647874905241	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "50943" "-no-remote" "-profile" "/tmp/rust_mozprofileW85ZkK"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647874905938	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileW85ZkK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50943/devtools/browser/ac8385d9-b4cc-4423-86ec-dd451a1cd062
+1647874907130	Marionette	INFO	Listening on port 41203
+1647874907163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mail.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647874930443	Marionette	INFO	Stopped listening on port 41203
+1647874954235	geckodriver	INFO	Listening on 127.0.0.1:45809
+1647874954239	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "43057" "-no-remote" "-profile" "/tmp/rust_mozprofile3nwr4C"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647874954875	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3nwr4C/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43057/devtools/browser/f16aeae1-c370-4fc9-9666-50a20df789b2
+1647874956091	Marionette	INFO	Listening on port 39993
+1647874956160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mail.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647874979667	Marionette	INFO	Stopped listening on port 39993
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647875010645	geckodriver	INFO	Listening on 127.0.0.1:46859
+1647875010650	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "38713" "-no-remote" "-profile" "/tmp/rust_mozprofileY2W8x7"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647875011311	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileY2W8x7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38713/devtools/browser/4b70ce57-405f-4400-9979-4f391deafb55
+1647875012498	Marionette	INFO	Listening on port 37711
+1647875012582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mail.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647875036240	Marionette	INFO	Stopped listening on port 37711
+1647875117677	geckodriver	INFO	Listening on 127.0.0.1:59259
+1647875117681	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "39587" "-no-remote" "-profile" "/tmp/rust_mozprofilezhM8jm"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647875118340	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezhM8jm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39587/devtools/browser/99c77c2c-bf11-4ab2-8a47-9cd0e9a56552
+1647875119757	Marionette	INFO	Listening on port 43377
+1647875119812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mail.yandex.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647875155697	Marionette	INFO	Stopped listening on port 43377
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PWebSocket::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647890521224	geckodriver	INFO	Listening on 127.0.0.1:55227
+1647890521228	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "38193" "-no-remote" "-profile" "/tmp/rust_mozprofileAY3FCA"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647890521887	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAY3FCA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38193/devtools/browser/193080e7-c5d0-409c-9274-3a3b8da6900b
+1647890522972	Marionette	INFO	Listening on port 42849
+1647890523056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.yandex.ru"
+1647890537724	Marionette	INFO	Stopped listening on port 42849
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647890538871	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1647892441591	geckodriver	INFO	Listening on 127.0.0.1:33205
+1647892441595	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "45101" "-no-remote" "-profile" "/tmp/rust_mozprofile3CZQlI"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647892442283	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3CZQlI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45101/devtools/browser/32552dc2-4771-48fc-bcbd-865b9d5ce445
+1647892443471	Marionette	INFO	Listening on port 38623
+1647892443515	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://accounts.google.com/signup/v2?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp line 1 > eval line 1484 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647892453103	Marionette	INFO	Stopped listening on port 38623
+1647892733346	geckodriver	INFO	Listening on 127.0.0.1:59515
+1647892733349	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "35133" "-no-remote" "-profile" "/tmp/rust_mozprofile7cPr3j"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647892734016	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7cPr3j/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35133/devtools/browser/d124cba3-2b74-48c6-b807-92993810a261
+1647892735164	Marionette	INFO	Listening on port 37417
+1647892735264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://accounts.google.com/signup/v2?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp line 1 > eval line 1283 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647892751457	Marionette	INFO	Stopped listening on port 37417
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647893106824	geckodriver	INFO	Listening on 127.0.0.1:52789
+1647893106828	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "37599" "-no-remote" "-profile" "/tmp/rust_mozprofileYujWV6"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647893107489	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYujWV6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37599/devtools/browser/9ee311bf-ecba-4cc0-908d-159e055a05d7
+1647893108566	Marionette	INFO	Listening on port 46455
+1647893108642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://accounts.google.com/signup/v2?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp line 1 > eval line 3854 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647893124726	Marionette	INFO	Stopped listening on port 46455
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647893196501	geckodriver	INFO	Listening on 127.0.0.1:53531
+1647893196505	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "55329" "-no-remote" "-profile" "/tmp/rust_mozprofileVQGPk6"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647893197154	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVQGPk6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55329/devtools/browser/d372a9c2-7860-4b42-a53b-5d254489f24d
+1647893198339	Marionette	INFO	Listening on port 36335
+1647893198430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://accounts.google.com/signup/v2?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp line 1 > eval line 5188 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647893214611	Marionette	INFO	Stopped listening on port 36335
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647893245053	geckodriver	INFO	Listening on 127.0.0.1:48839
+1647893245057	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "41959" "-no-remote" "-profile" "/tmp/rust_mozprofile96REBr"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647893245710	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile96REBr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41959/devtools/browser/a0cbcaf0-6415-466e-aead-ec0b9e1b039b
+1647893246906	Marionette	INFO	Listening on port 45641
+1647893246981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://accounts.google.com/signup/v2?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp line 1 > eval line 5977 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647893264895	Marionette	INFO	Stopped listening on port 45641
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647893298817	geckodriver	INFO	Listening on 127.0.0.1:40455
+1647893298821	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "47339" "-no-remote" "-profile" "/tmp/rust_mozprofileV4DNLE"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647893299481	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileV4DNLE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47339/devtools/browser/e1e4e0db-c975-4b46-b95a-3a581e46dfce
+1647893300560	Marionette	INFO	Listening on port 37433
+1647893300644	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://accounts.google.com/signup/v2?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp line 1 > eval line 5833 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647893323833	Marionette	INFO	Stopped listening on port 37433
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647893367495	geckodriver	INFO	Listening on 127.0.0.1:49731
+1647893367499	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "58615" "-no-remote" "-profile" "/tmp/rust_mozprofilelMLRs4"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647893368122	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelMLRs4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58615/devtools/browser/47cd5213-a12c-45de-95c0-f9c77ed3bcbd
+1647893369185	Marionette	INFO	Listening on port 40093
+1647893369213	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://accounts.google.com/signup/v2?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp line 1 > eval line 2787 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647893389597	Marionette	INFO	Stopped listening on port 40093
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647939907656	geckodriver	INFO	Listening on 127.0.0.1:49215
+1647939908162	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "55877" "-no-remote" "-profile" "/tmp/rust_mozprofiledRb0k1"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647939909003	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledRb0k1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55877/devtools/browser/83b45c98-6460-463b-88ed-414c16b4505f
+1647939910319	Marionette	INFO	Listening on port 46523
+1647939910384	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://accounts.google.com/signup/v2?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp line 1 > eval line 4706 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647939929013	Marionette	INFO	Stopped listening on port 46523
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647940079267	geckodriver	INFO	Listening on 127.0.0.1:59057
+1647940079271	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent={\'User-Agent\': \'Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0\', \'Accept\': \'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\'}" "--remote-debugging-port" "33781" "-no-remote" "-profile" "/tmp/rust_mozprofilec6OQ00"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647940079907	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilec6OQ00/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33781/devtools/browser/15340a2c-ad03-4152-9142-6670e65b7dca
+1647940081087	Marionette	INFO	Listening on port 41817
+1647940081192	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://accounts.google.com/signup/v2?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp line 1 > eval line 6642 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647940126245	Marionette	INFO	Stopped listening on port 41817
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+

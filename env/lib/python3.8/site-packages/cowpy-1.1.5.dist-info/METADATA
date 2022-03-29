@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: cowpy
+Version: 1.1.5
+Summary: 
+Author: Jeff Buttars
+Author-email: jeffbuttars@gmail.com
+Requires-Python: >=3.6
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
