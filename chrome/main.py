@@ -4,7 +4,6 @@ import time
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from cowpy import cow
-import random
 import string
 import undetected_chromedriver.v2 as uc
 
@@ -16,6 +15,7 @@ try:
     driver.get(
         "https://accounts.google.com/signup"
         )
+
     time.sleep(5)
 
     #генерируем имя
@@ -26,7 +26,7 @@ try:
     my_name.clear()
     my_name.send_keys(name)
     time.sleep(3)
-    
+
     #генерируем фамилию
     surname = ''.join([random.choice(string.ascii_lowercase) for n in range(8)])
 
@@ -81,9 +81,16 @@ try:
     title.send_keys("Это те самые дроиды, которых вы ищите!")
     time.sleep(3)
 
-    letter = driver.find_element(By.ID, "cke_wysiwyg_div cke_reset cke_enable_context_menu cke_editable cke_editable_themed cke_contents_ltr cke_htmlplaceholder")
+    letter = driver.find_element(
+        By.ID, 
+        "cke_wysiwyg_div cke_reset cke_enable_context_menu cke_editable cke_editable_themed cke_contents_ltr cke_htmlplaceholder"
+        )
+
     letter.clear()
-    letter.send_keys("Это те самые дроиды, которых вы ищите! Хамерзаев Мансур Мусаевич, +79389926611, телеграм(@mahamerz)")
+
+    letter.send_keys(
+        "Это те самые дроиды, которых вы ищите! Хамерзаев Мансур Мусаевич, +79389926611, телеграм(@mahamerz)"
+        )
     time.sleep(3)
 
     binder = driver.find_element(By.XPATH, "//input[@type='file']")
