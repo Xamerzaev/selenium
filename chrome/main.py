@@ -6,15 +6,15 @@ from selenium.webdriver.common.keys import Keys
 from cowpy import cow
 import random
 import string
-import undetected_chromedriver.v2
+import undetected_chromedriver.v2 as uc
 
 
 try:
-    driver = undetected_chromedriver.Chrome()
+    driver = uc.Chrome()
 
     #открываем страницу для регистрации новой почты GMAIL
     driver.get(
-        "https://accounts.google.com/signup/v2/webcreateaccount?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp"
+        "https://accounts.google.com/signup"
         )
     time.sleep(5)
 
