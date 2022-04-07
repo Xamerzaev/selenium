@@ -6,29 +6,12 @@ from selenium.webdriver.common.keys import Keys
 from cowpy import cow
 import random
 import string
-
-
-user_agent_list = [
-    {'User-Agent': 'Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'},
-    {'User-Agent': 'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'},
-    {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'}
-]
-
-options = webdriver.FirefoxOptions()
-
-options.add_argument(f"user-agent={random.choice(user_agent_list)}")
-
-
-driver = webdriver.Firefox(
-    executable_path="/home/mahamerz/Рабочий стол/проекты/tz_kintech/firefox/geckodriver",
-    options=options
-    )
+import undetected_chromedriver.v2
 
 
 try:
+    driver = undetected_chromedriver.Chrome()
+
     #открываем страницу для регистрации новой почты GMAIL
     driver.get(
         "https://accounts.google.com/signup/v2/webcreateaccount?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp"
